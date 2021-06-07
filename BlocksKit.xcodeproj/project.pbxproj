@@ -217,7 +217,6 @@
 		DB4CA5BA1B3A67A3004B70F8 /* UIControlBlocksKitTest.m in Sources */ = {isa = PBXBuildFile; fileRef = DB4CA55E1B3A67A3004B70F8 /* UIControlBlocksKitTest.m */; };
 		DB4CA5BD1B3A67A3004B70F8 /* UIImagePickerControllerBlocksKitTest.m in Sources */ = {isa = PBXBuildFile; fileRef = DB4CA55F1B3A67A3004B70F8 /* UIImagePickerControllerBlocksKitTest.m */; };
 		DB4CA5C01B3A67A3004B70F8 /* UITextFieldBlocksKitTest.m in Sources */ = {isa = PBXBuildFile; fileRef = DB4CA5601B3A67A3004B70F8 /* UITextFieldBlocksKitTest.m */; };
-		DB4CA5C31B3A67A3004B70F8 /* UIWebViewBlocksKitTest.m in Sources */ = {isa = PBXBuildFile; fileRef = DB4CA5611B3A67A3004B70F8 /* UIWebViewBlocksKitTest.m */; };
 		DB4CA5CD1B3A6819004B70F8 /* BKApp.m in Sources */ = {isa = PBXBuildFile; fileRef = DB4CA5CA1B3A6810004B70F8 /* BKApp.m */; };
 		DB4CA5D01B3A7A08004B70F8 /* BlocksKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DB9B96371B3A52E500940D20 /* BlocksKit.framework */; };
 		DB4CA5D11B3A7A08004B70F8 /* BlocksKit.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = DB9B96371B3A52E500940D20 /* BlocksKit.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
@@ -490,7 +489,6 @@
 		DB4CA55E1B3A67A3004B70F8 /* UIControlBlocksKitTest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UIControlBlocksKitTest.m; sourceTree = "<group>"; };
 		DB4CA55F1B3A67A3004B70F8 /* UIImagePickerControllerBlocksKitTest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UIImagePickerControllerBlocksKitTest.m; sourceTree = "<group>"; };
 		DB4CA5601B3A67A3004B70F8 /* UITextFieldBlocksKitTest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UITextFieldBlocksKitTest.m; sourceTree = "<group>"; };
-		DB4CA5611B3A67A3004B70F8 /* UIWebViewBlocksKitTest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UIWebViewBlocksKitTest.m; sourceTree = "<group>"; };
 		DB4CA5C81B3A6810004B70F8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/MainMenu.xib; sourceTree = "<group>"; };
 		DB4CA5C91B3A6810004B70F8 /* BKApp.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BKApp.h; sourceTree = "<group>"; };
 		DB4CA5CA1B3A6810004B70F8 /* BKApp.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BKApp.m; sourceTree = "<group>"; };
@@ -757,7 +755,6 @@
 				DB4CA55E1B3A67A3004B70F8 /* UIControlBlocksKitTest.m */,
 				DB4CA55F1B3A67A3004B70F8 /* UIImagePickerControllerBlocksKitTest.m */,
 				DB4CA5601B3A67A3004B70F8 /* UITextFieldBlocksKitTest.m */,
-				DB4CA5611B3A67A3004B70F8 /* UIWebViewBlocksKitTest.m */,
 			);
 			path = UIKit;
 			sourceTree = "<group>";
@@ -1227,7 +1224,6 @@
 				DB4CA5B11B3A67A3004B70F8 /* QLPreviewControllerBlocksKitTest.m in Sources */,
 				DB4CA5691B3A67A3004B70F8 /* NSDictionaryBlocksKitTest.m in Sources */,
 				DB4CA56F1B3A67A3004B70F8 /* NSInvocationBlocksKitTest.m in Sources */,
-				DB4CA5C31B3A67A3004B70F8 /* UIWebViewBlocksKitTest.m in Sources */,
 				DB4CA57E1B3A67A3004B70F8 /* NSMutableOrderedSetBlocksKitTest.m in Sources */,
 				DB4CA5A21B3A67A3004B70F8 /* A2DynamicTestClasses.m in Sources */,
 				DB4CA5BA1B3A67A3004B70F8 /* UIControlBlocksKitTest.m in Sources */,
